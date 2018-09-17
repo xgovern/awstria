@@ -1,0 +1,20 @@
+{
+	"name": "awstria",
+	"description": "Amazon Web Service Typedata-Reinforced Integrated Application",
+	"version": "0.0.0",
+	"main": "awstria.js",
+	"author":"Joe K. Kim (@xGovern)",
+	"license":"Proprietary",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/xgovern/awstria"
+	},
+	"keywords":["joide","xgovern","xgov","ide"],
+	"bugs": {
+		"url": "https://github.com/xgovern/awstria/issues"
+	},
+	"homepage": "https://awstria.com",
+	"dependencies": {
+		
+	}
+}
